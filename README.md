@@ -1,12 +1,14 @@
 # IceCube - Neutrinos in Deep Ice
 
 
-#### Goal of the Competition     
+#### Goal of the Competition    
+
 The goal of this competition is to predict a neutrino particle’s direction. Develop a model based on data from the "IceCube" detector, which observes the cosmos from deep within the South Pole ice.      
 
 This work could help scientists better understand exploding stars, gamma-ray bursts, and cataclysmic phenomena involving black holes, neutron stars and the fundamental properties of the neutrino itself.
 
-#### Context     
+#### Context  
+
 One of the most abundant particles in the universe is the neutrino. While similar to an electron, the nearly massless and electrically neutral neutrinos have fundamental properties that make them difficult to detect. Yet, to gather enough information to probe the most violent astrophysical sources, scientists must estimate the direction of neutrino events. If algorithms could be made considerably faster and more accurate, it would allow for more neutrino events to be analyzed, possibly even in real-time and dramatically increase the chance to identify cosmic neutrino sources. Rapid detection could enable networks of telescopes worldwide to search for more transient phenomena.     
 
 Researchers have developed multiple approaches over the past ten years to reconstruct neutrino events. However, problems arise as existing solutions are far from perfect. They're either fast but inaccurate or more accurate at the price of huge computational costs.     
