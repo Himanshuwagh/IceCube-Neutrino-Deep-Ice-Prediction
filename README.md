@@ -14,3 +14,6 @@ Researchers have developed multiple approaches over the past ten years to recons
 The IceCube Neutrino Observatory is the first detector of its kind, encompassing a cubic kilometer of ice and designed to search for the nearly massless neutrinos. An international group of scientists is responsible for the scientific research that makes up the IceCube Collaboration.     
 
 By making the process faster and more precise, you'll help improve the reconstruction of neutrinos. As a result, we could gain a clearer image of our universe
+
+![icecube_detector](https://user-images.githubusercontent.com/76431630/221398149-bc6cec6c-0a02-4391-92f3-796487a97a6f.jpg)
+
